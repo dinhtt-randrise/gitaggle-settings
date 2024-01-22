@@ -25,6 +25,16 @@ Read following article for more details:
 # https://stackoverflow.com/questions/2505096/clone-a-private-repository-github
 
 
+============================================
+           2. /kaggle.json
+  ---------------------------------------
+
+This file contains Kaggle API token.
+
+Read following article for more details:
+
+# Getting Started on Kaggle's public API
+# https://www.kaggle.com/docs/api
 
 
 ```
